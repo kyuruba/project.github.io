@@ -1,0 +1,103 @@
+body {
+    background-color: whitesmoke;
+}
+
+a {
+    color: red;
+}
+
+.banner {
+  background-image: url("banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+.options {
+    text-align: center;
+    padding: 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: lightgray;
+ }
+ li{
+     display:block;
+     color:black;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     float: left;
+   }
+li:hover {
+     background-color: #F4A89C;
+   }
+
+
+   .c{
+    margin-left: 80px;
+    margin-right:80px;
+}
+
+.cl{
+    float: left;
+    width: 48%;
+    margin-bottom: 45px;
+
+
+}
+
+.cr{
+    float: right;
+    width: 48%;
+    margin-bottom: 45px;
+}
+
+.a1, .a2{
+    text-decoration: none;
+
+  }
+h2{
+  text-align: center;
+  margin-top: 30px;
+}
+h1{
+
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  opacity: 0.5;
+  background-color: white;
+  margin-left: 420px;
+
+}
+.startbutton{
+  margin-top: 50px;
+
+}
+.button{
+  background-color: ;
+    border: none;
+    width: 120px;
+    height: 70px;
+    text-decoration: none;
+
+
+}
+.logo{
+  margin-top: 40px;
+  display: block;
+}
